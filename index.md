@@ -1,12 +1,12 @@
-## Welcome to Ken Mori's CS19300 First Website!
+## Ken Mori's First CS193 Homework
 
 This is the first official homework assignment for CS 19300!
 
 CS 19300 is a great course and I am happy to be in it!
+ 
 
-### Markdown
+### Here are some of my favorite things about this course
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
