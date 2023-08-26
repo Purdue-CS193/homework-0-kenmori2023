@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Ken Mori's CS19300 First Website!
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the first official homework assignment for CS 19300!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CS 19300 is a great course and I am happy to be in it!
 
 ### Markdown
 
