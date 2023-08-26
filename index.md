@@ -9,4 +9,4 @@ CS 19300 is a great course and I am happy to be in it!
 
 - **NO EXAMS!!!**
 -  _Learning how to be professional with Github_
-- `Free access to help from TAs`
+- `Free access for help from TAs`
