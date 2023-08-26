@@ -7,6 +7,6 @@ CS 19300 is a great course and I am happy to be in it!
 
 ### Here are some of my favorite things about this course:
 
-1. **NO EXAMS!!!**
-2. _Learning how to be professional with Github_
-3. `Free access to help from TAs`
+- **NO EXAMS!!!**
+-  _Learning how to be professional with Github_
+- `Free access to help from TAs`
